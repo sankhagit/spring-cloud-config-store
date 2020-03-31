@@ -1,10 +1,1 @@
-server:
-  port: 8191
-spring: 
-  cloud:
-    cloud: 
-     server:
-      git:
-        uri: https://github.com/sankhagit/spring-cloud-config-store
-        search-paths: 
-          - '*service'
+
